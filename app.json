@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Task List",
+    "slug": "Task-List-Marouane",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/check-list.png",
+    "splash": {
+      "image": "./assets/icons/check-list.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "methlouti.marouane.tasklist",
+      "versionCode": 1
+    },
+    "description": ""
+  }
+}
